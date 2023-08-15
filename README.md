@@ -1,13 +1,21 @@
-# Memory-Game-Godot version 4.1.1.-
-A memory game, Godot Engine v4.1.1.stable.official
+# Memory Game
 
 
- - This is made using Godot Engine 4.1.1.
+A memory game (finding pairs of cards)
 
- - The scripts are written in gdscript
+- This is made using Godot Engine 3
 
- - Memory Game on itch.io <- Here this game can be played and downloaded (older version made by using Godot 3)
+- The scripts are written in gdscript
 
-![MemoryGameMenuScreenshot](https://github.com/Tzoop/Memory-Game-Godot-version-4.1.1.-/assets/6698415/d0627eb6-ac03-46c9-9c0e-2c71944f8dd6)
+- [Memory Game on itch.io](https://tzoop.itch.io/memory-game) <- Here this game can be played and downloaded. 
 
-![MemoryGamePlayingScreenshot1](https://github.com/Tzoop/Memory-Game-Godot-version-4.1.1.-/assets/6698415/e6693c67-9ec9-47ad-9f28-7da49fb3b40b)
+![Screenshot Menu](https://github.com/Tzoop/MemoryGame/blob/master/screenshots_for_readme_github/MemoryGameMenuScreenshot.png)
+
+![Screenshot Game](https://github.com/Tzoop/MemoryGame/blob/master/screenshots_for_readme_github/MemoryGamePlayingScreenshot1.png)
+
+
+# License
+
+- CCO (Creative Commons 1.0 Universal)
+
+- Icons used are licensed CC BY 3.0 and can be found here: [Game-Icons](https://game-icons.net/)
